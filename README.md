@@ -1,5 +1,5 @@
 <h1>My first React App <br></h1>
-<h2>This app recognize faces <br></h2>
+<h2>This app recognize faces, just put image link into input area<br></h2>
 <h4>You can register or use this account:  </h4>
 <strong>login:</strong> admin@gmail.com <br>
 <strong>password:</strong> admin <br>
