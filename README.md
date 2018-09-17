@@ -1,5 +1,5 @@
 My first React App <br>
-This app recognize faces
-You can register or use this account: 
-login: admin@gmail.com
-password: admin
+This app recognize faces <br>
+You can register or use this account:  <br>
+login: admin@gmail.com <br>
+password: admin <br>
