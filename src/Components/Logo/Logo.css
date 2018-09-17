@@ -1,0 +1,15 @@
+.Tilt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #21d4fd;
+  background-image: linear-gradient(-19deg, #3eb8ffb6 0%, #21d4fd 100%);
+  transform-style: preserve-3d;
+}
+
+.Tilt-inner {
+  transform: translateZ(25px);
+  height: 100px;
+  width: 100px;
+  color: white;
+}
